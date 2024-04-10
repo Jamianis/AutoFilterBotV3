@@ -26,14 +26,14 @@ Bot Owner Only
 /delete Delete File From Database
 
 ABOUT = """
-'➥' Name :  Auto Filter V3
-    
- ➥ Creator : [Naughty PROFESSOR](
- https://youtube.com/c/NaughtyPROFESSOR)
+ '➥' Name :  Auto Filter V3
+   
+ '➥' Creator : [Naughty PROFESSOR](
+  https://youtube.com/c/NaughtyPROFESSOR)
 
- ➥ Language : Python3
+ '➥' Language : Python3
 
- ➥ Library : Pyrogram Asyncio 1.13.0
+ '➥' Library : Pyrogram Asyncio 1.13.0
 
- ➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8) 
- """
+ '➥' Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8) 
+  """
