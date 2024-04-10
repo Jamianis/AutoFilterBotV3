@@ -23,9 +23,7 @@ Bot Owner Only
 /banned_users Banned User Details
 /total How Many Files Added In Database
 /logger  Get Logs
-/delete Delete File From Database
-
-"""
+/delete Delete File From Database"""
 
 ABOUT = """
 ➥ Name :  Auto Filter V3
