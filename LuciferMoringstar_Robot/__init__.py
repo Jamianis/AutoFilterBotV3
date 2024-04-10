@@ -24,7 +24,6 @@ Bot Owner Only
 /total How Many Files Added In Database
 /logger  Get Logs
 /delete Delete File From Database
-
 """
 
 ABOUT = """
