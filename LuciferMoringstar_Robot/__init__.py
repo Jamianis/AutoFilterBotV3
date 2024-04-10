@@ -25,7 +25,6 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 """
-
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
